@@ -140,5 +140,3 @@ dependencies:
   - nb-conda==2.0.0
   - nb-conda-kernels==2.0.0
   - prompt-toolkit==1.0.3
-prefix: /Users/shafferm/miniconda2/envs/sourcetracker
-
